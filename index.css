@@ -14,12 +14,13 @@ body {
 #PageTitle {
     background-color: red;
     width: 100vw;
-    height: 25px;
+    height: 40px;
 }
 
 h1 {
   color: white;
   text-align: center;
+  margin: 0;
 }
 
 p {
